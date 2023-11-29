@@ -24,7 +24,7 @@ ChatSphere is a web-based chat application that enables users to engage in live 
 ## Installation
 
 1. Clone the repository:
-git clone https://github.com/your-username/ChatSphere.git
+git clone https://github.com/priyanksukhadiya/ChatSphere.git
 
 2. Set up the database and configure the connection details in 'connection.php'.
 

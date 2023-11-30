@@ -224,7 +224,7 @@ $result = mysqli_stmt_get_result($stmt);
                 </div>
             </div>
             <p class="text-center top_spac">Design by <a target="_blank"
-                    href="https://www.linkedin.com/in/priyank-sukhadiya-0a0404214/">Priyank Sukjadiya</a></p>
+                    href="https://www.linkedin.com/in/priyank-sukhadiya-0a0404214/">Priyank Sukhadiya</a></p>
         </div>
     </div>
     <?php } ?>
@@ -233,7 +233,6 @@ $result = mysqli_stmt_get_result($stmt);
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
 
 </body>
-
 </html>
 
 <?php
